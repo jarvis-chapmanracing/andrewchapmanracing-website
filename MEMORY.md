@@ -78,3 +78,44 @@ Best quick-close / single-race or in-kind angles:
 - Racers Edge AZ
 - Dan's Paint & Body
 - Tint World Tucson
+
+## Website project status - paused
+
+Andrew Chapman Racing website work is paused, but current progress should be preserved.
+
+### Current site status
+- Site folder exists at `site/`
+- Current files include:
+  - `site/index.html`
+  - `site/styles.css`
+  - `site/README.md`
+- Current site includes:
+  - sponsor-focused homepage
+  - About section
+  - Racing Program section
+  - Partners section with sponsorship tiers
+  - Tucson-specific sponsor opportunity section
+  - Media Kit section
+  - Gallery/public social presence section
+  - Official ARCA West schedule links
+  - Contact section
+
+### Relevant commits
+- `561bd2c` - Create sponsor-focused website draft
+- `8748c09` - Upgrade sponsor website to version 2
+- `e886e09` - Add gallery and official schedule links to website
+
+### Important constraints discovered
+- Direct automated fetching of ARCA pages/images was blocked by Cloudflare in this environment.
+- Instagram/public image scraping is unreliable from current tools/environment.
+- Site currently links to official/public sources but does not yet embed clean local photo assets.
+
+### Best next steps when resuming
+1. Add real local image assets provided by Andrew or otherwise approved.
+2. Add stronger official bio details once verified.
+3. Add official schedule highlights/results instead of only source links.
+4. Create a sponsor deck PDF.
+5. Optionally install helpful skills:
+   - `website` or `web`
+   - `pdf-generator`
+   - `lead-researcher`
