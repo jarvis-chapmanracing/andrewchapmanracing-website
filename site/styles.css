@@ -201,6 +201,23 @@ nav a:hover { color: var(--text); }
 .contact-card { padding: 1.35rem; }
 .contact-card a { color: #fff; }
 .contact-section { padding-bottom: 5rem; }
+.gallery-card {
+  min-height: 220px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.text-link {
+  color: #ffffff;
+  font-weight: 700;
+}
+.text-link:hover {
+  color: #cfe8ff;
+}
+.subtle-note {
+  color: var(--muted);
+  font-size: 0.95rem;
+}
 
 @media (max-width: 900px) {
   .hero-grid,
