@@ -93,6 +93,11 @@ Best quick-close / single-race or in-kind angles:
   - 9:00 AM US/Pacific
   - sends to `andrew.j.b.chapman@gmail.com`
   - includes lead research progress, sponsorship outreach progress, strongest new leads, pending approvals, and key next steps
+- Important email check:
+  - runs every 30 minutes
+  - watches for sponsor replies and important outreach-related responses
+  - if a single run fails with a provider/internal API error, treat it as a transient failure, not a broken workflow
+  - next run should continue normally unless failures repeat
 - Current background research cadence:
   - 8:00 AM US/Pacific
   - 12:00 PM US/Pacific
