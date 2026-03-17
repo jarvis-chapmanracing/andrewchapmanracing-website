@@ -89,6 +89,10 @@ Best quick-close / single-race or in-kind angles:
 - Current reporting cadence:
   - 10:00 AM US/Pacific summary
   - 6:00 PM US/Pacific summary
+- Daily operational email update:
+  - 9:00 AM US/Pacific
+  - sends to `andrew.j.b.chapman@gmail.com`
+  - includes lead research progress, sponsorship outreach progress, strongest new leads, pending approvals, and key next steps
 - Current background research cadence:
   - 8:00 AM US/Pacific
   - 12:00 PM US/Pacific
