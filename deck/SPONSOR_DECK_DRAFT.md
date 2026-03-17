@@ -1,5 +1,5 @@
 # Andrew Chapman Racing
-## Sponsor Deck Draft
+## Sponsor Deck Draft - Refined
 
 ---
 
@@ -9,169 +9,185 @@
 Race Car Driver  
 Andrew Chapman Racing
 
-Building a professional racing program around performance, growth, and sponsor value.
+A sponsor-focused racing program built around performance, professionalism, and long-term partner value.
 
-Contact: andrewchapmanracing@gmail.com
+Contact: andrewchapmanracing@gmail.com  
 Instagram: @andrewchapman.racing
 
 ---
 
-## Slide 2 - Who I Am
+## Slide 2 - Driver Overview
 
-Andrew Chapman is a race car driver building a professional motorsports program with a focus on long-term growth, competitive development, and meaningful sponsor partnerships.
+Andrew Chapman is a race car driver building a professional motorsports program with a focus on competitive growth, brand development, and meaningful sponsor partnerships.
 
-Publicly available racing references connect Andrew to High Point Racing, ARCA Menards Series West competition, and a growing racing brand presence under Andrew Chapman Racing.
+His public racing profile is connected to High Point Racing, ARCA Menards Series West opportunity, and a growing brand presence under Andrew Chapman Racing.
 
-This program is being built to create real value for partners through racing exposure, brand alignment, and a professional public presence.
+This program is being built to give partners more than logo space. The goal is to create a platform that is credible, marketable, and worth aligning with.
 
 ---
 
-## Slide 3 - The Program
+## Slide 3 - The Opportunity
 
-**Current focus:**
-- Professional driver development
+Andrew Chapman Racing is not being positioned as a casual sponsorship ask. It is being built as a real partner platform.
+
+Current focus includes:
 - ARCA Menards Series West opportunity
-- Late Model progression
-- Stronger sponsor-facing brand and media presence
+- continued driver development and progression
+- stronger public brand presence
+- improved sponsor-facing assets and communication
+- race-specific and regional partnership opportunities
 
-**What this means for partners:**
-- visible placement in a real racing program
-- a driver building upward momentum
-- a platform that can grow over time, not just a one-off ask
-
----
-
-## Slide 4 - Why Now
-
-This is the right time to partner because the program is actively being professionalized and expanded.
-
-Key momentum factors:
-- growing sponsor outreach infrastructure
-- stronger public-facing brand presence
-- Arizona and California regional sponsor relevance
-- race-specific partnership opportunities tied to current competition
-- a driver profile that combines motorsports credibility with long-term upside
-
-Partners who get involved early have the opportunity to grow with the program.
+For sponsors, that means the chance to get involved with a program that is actively growing and becoming more professional.
 
 ---
 
-## Slide 5 - Sponsor Value
+## Slide 4 - Why Partner Now
 
-Partnering with Andrew Chapman Racing creates value through:
+The best time to build a sponsor relationship is while the program is still climbing.
 
-- motorsports brand exposure
-- association with a serious driver program
-- race-week content and social media visibility
-- regional relevance in Arizona and California
-- authentic alignment with automotive, performance, racing, engineering, and lifestyle brands
+Why now matters:
+- the platform is actively growing
+- partner visibility can start immediately
+- there are current race-related opportunities to activate around
+- the program is being built with sponsor value in mind from the start
+- early partners have the strongest chance to become part of the story long-term
 
-This is not just logo placement. The goal is to create a partnership that feels real, visible, and commercially useful.
+This is a chance to partner early with a program that is being built to scale.
 
 ---
 
-## Slide 6 - Best-Fit Partners
+## Slide 5 - What Partners Get
 
-This program is a strong fit for:
+A partnership with Andrew Chapman Racing can create value through:
+
+- race-related brand visibility
+- social content and digital exposure
+- authentic alignment with motorsports culture
+- regional presence in Arizona and California
+- association with a disciplined, growth-oriented driver program
+- the opportunity to grow with a developing racing brand
+
+The objective is simple: create something that helps the sponsor as much as it helps the program.
+
+---
+
+## Slide 6 - Ideal Partner Categories
+
+Andrew Chapman Racing is especially well-aligned with:
 
 - automotive aftermarket brands
-- performance shops
+- performance shops and tuners
 - wraps, tint, PPF, and customization companies
 - racing equipment and safety brands
 - tools and industrial suppliers
 - regional Arizona and California businesses
-- engineering, software, and technical companies
-- lifestyle brands that want authentic motorsports visibility
+- engineering, software, and technical brands
+- lifestyle brands that want authentic motorsports exposure
+
+The strongest partnerships will be the ones where the brand fit feels obvious and credible.
 
 ---
 
-## Slide 7 - Partnership Options
+## Slide 7 - Partnership Structure
 
-**Primary Partner**
-- top-tier brand visibility
-- strongest integration into the racing program
-- premium placement and deeper collaboration
+### Primary Partner
+- strongest visibility and integration
+- premium placement and highest value positioning
+- best for brands wanting a real flagship presence
 
-**Associate Partner**
-- flexible partnership structure
-- strong value for regional and category-fit brands
-- race-specific or season-long support
+### Associate Partner
+- flexible and practical partnership format
+- strong fit for regional businesses and category-aligned brands
+- ideal for race-specific or season-long support
 
-**Product / In-Kind Partner**
-- ideal for performance, fabrication, media, wrap, safety, and service businesses
-- practical support that directly strengthens the program
+### Product / In-Kind Partner
+- ideal for service, fabrication, media, wrap, safety, and equipment brands
+- practical support that directly improves the program
 
-Each package can be tailored to partner goals, budget, and activation style.
+Partnerships can be tailored to budget, goals, and activation style.
 
 ---
 
 ## Slide 8 - Activation Opportunities
 
-Examples of partner value can include:
+Partners can be integrated through:
 
-- logo placement on the car, gear, and supporting materials
-- race-week social content
-- sponsor spotlights and branded posts
-- event-specific partnership activation
-- Arizona and California regional promotion
-- co-branded content opportunities
-- inclusion in website, deck, and media materials
+- logo placement on the car, gear, and supporting assets
+- sponsor-focused social media content
+- race-week and event-specific promotion
+- co-branded digital content
+- inclusion in website and deck materials
+- regional exposure tied to Arizona and California markets
+- deeper brand storytelling tied to the program’s growth
 
-The goal is to make the sponsorship visible both on and off the track.
-
----
-
-## Slide 9 - Current Opportunity
-
-**Current sponsor opportunity:**
-Partnerships tied to Andrew Chapman’s current racing program, including ARCA Menards Series West-related opportunities and regional race promotion.
-
-Why this matters:
-- creates a near-term activation point for sponsors
-- easier for brands to test a race partnership
-- especially strong fit for Arizona and California companies
-- opens the door to longer-term sponsor relationships
+The goal is to make sponsorship visible, real, and commercially useful.
 
 ---
 
-## Slide 10 - Media and Public Presence
+## Slide 9 - Current Partnership Window
 
-Public-facing assets currently being developed include:
+Andrew Chapman Racing is currently positioned around near-term sponsorship opportunities tied to race promotion, partner growth, and broader professionalization of the program.
+
+Why this is attractive for sponsors:
+- easier to enter through a focused near-term opportunity
+- lower-friction test of the relationship
+- real visibility potential in current racing activity
+- strong fit for brands looking for regional motorsports alignment
+
+This creates an accessible entry point for companies that want to explore a partnership now rather than someday.
+
+---
+
+## Slide 10 - Media and Brand Development
+
+The program is actively developing stronger sponsor-facing and public-facing assets, including:
+
 - sponsor-focused website
-- professional sponsor outreach system
-- Google Sheet lead tracker and pipeline
+- structured sponsor outreach system
+- lead tracking and pipeline management
 - public media inventory
-- social presence under Andrew Chapman Racing / @andrewchapman.racing
+- consistent social identity under Andrew Chapman Racing
 
-Additional deck upgrades planned:
+Planned upgrades include:
 - approved race photography
-- official results highlights
-- stronger media kit assets
-- brand visuals and sponsor examples
+- stronger visual brand presentation
+- refined media kit materials
+- more polished sponsor deliverables
+
+This is important because strong partnerships need strong presentation.
 
 ---
 
-## Slide 11 - Why Andrew Chapman Racing
+## Slide 11 - Why Andrew Chapman Racing Is Investable
 
-Andrew Chapman Racing is being built to be:
+This program is being built around the qualities sponsors actually care about:
 
-- professional
-- growth-oriented
-- sponsor-aware
-- operationally disciplined
-- serious about long-term progression
+- professionalism
+- consistency
+- brand awareness
+- credibility
+- responsiveness
+- long-term upside
 
-The focus is not just on finding support. It is on building a program that sponsors can believe in and benefit from.
+The focus is not just on asking for support. It is on building a racing platform that becomes more valuable over time.
+
+That is what makes a partner relationship worth starting.
 
 ---
 
-## Slide 12 - Let’s Talk
+## Slide 12 - Let’s Build Something That Moves
 
-If you are interested in exploring a partnership, race-specific opportunity, product support arrangement, or longer-term sponsor relationship, let’s start the conversation.
+If your company is interested in partnering with a growing, sponsor-focused racing program, Andrew Chapman Racing is open to conversations around:
+
+- race-specific partnerships
+- seasonal support
+- associate sponsorship
+- product and in-kind partnerships
+- regional activation opportunities
 
 **Andrew Chapman**  
 andrewchapmanracing@gmail.com  
 Instagram: @andrewchapman.racing
 
-**Next step:**
-Reply to schedule a conversation or request a more detailed sponsor overview.
+**Next step:**  
+Reach out to start a conversation or request a more detailed sponsor overview.
