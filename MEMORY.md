@@ -83,21 +83,52 @@ Best quick-close / single-race or in-kind angles:
 
 - Goal: generate **20 high-quality sponsorship leads per day** for Andrew Chapman.
 - Quality matters more than raw volume.
-- Background lead research runs multiple times per day.
-- Morning and evening Telegram summaries report progress and strongest new leads.
+- Main bottleneck to solve: produce more **pitch-ready** leads, not just more candidate companies.
+- Current lead workflow uses three stages:
+  - **Candidate** - interesting company, not vetted enough yet, stays out of the main sheet
+  - **Vetted** - good fit and researched, but still being developed
+  - **Pitch-ready** - vetted, correctly routed, primary contact identified, alternate contact identified where possible, best outreach method chosen, and ready to act on
+- Only **pitch-ready** leads belong in the main Google Sheet.
+- Every pitch-ready lead should have answers for:
+  - why this company fits
+  - why now
+  - primary contact
+  - alternate contact when possible
+  - best outreach method
+  - best outreach angle
+  - whether it is genuinely worth acting on
+- Category batching should be used to improve throughput, such as:
+  - Arizona performance shops
+  - wraps / tint / PPF
+  - racing apparel / merch
+  - speed shops / fabrication
+  - tools / industrial suppliers
+  - regional Arizona / California brands
+- Use the installed lead stack deliberately during lead development:
+  - `linkedin-api`
+  - `data-enricher`
+  - `afrexai-prospect-researcher`
+  - `lead-scorer`
+  - `sales`
+  - `outreach`
+  - `google-sheets`
+  - `gmail`
 - When worthwhile leads are found, they should be added or updated in the Google Sheet tracker, not just mentioned in summaries.
-- Current reporting cadence:
-  - 10:00 AM US/Pacific summary
-  - 6:00 PM US/Pacific summary
 - Daily operational email update:
   - 9:00 AM US/Pacific
   - sends to `andrew.j.b.chapman@gmail.com`
-  - includes lead research progress, sponsorship outreach progress, strongest new leads, pending approvals, and key next steps
-- Important email check:
-  - runs every 30 minutes
+  - includes lead research progress, sponsorship outreach progress, strongest new leads, pending approvals, key next steps, and whether goals were met
+- Evening operational email update:
+  - 6:00 PM US/Pacific
+  - sends to `andrew.j.b.chapman@gmail.com`
+  - includes sponsor lead research progress, outreach progress, strongest vetted leads, approvals pending, and whether goals were met or why not
+- Nightly LLM usage email:
+  - 9:30 PM US/Pacific
+  - sends to `andrew.j.b.chapman@gmail.com`
+- Important email checks:
+  - 9:00 AM, 6:00 PM, and 9:00 PM US/Pacific
   - watches for sponsor replies and important outreach-related responses
   - if a single run fails with a provider/internal API error, treat it as a transient failure, not a broken workflow
-  - next run should continue normally unless failures repeat
 - Current background research cadence:
   - 8:00 AM US/Pacific
   - 12:00 PM US/Pacific
