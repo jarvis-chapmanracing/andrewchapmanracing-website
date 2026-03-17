@@ -104,6 +104,7 @@ Best quick-close / single-race or in-kind angles:
   - real outreach potential
   - contactability
   - avoiding junk / filler leads
+- Only add leads to the Google Sheet if they have a vetted contact path and are ready to pitch.
 - Active outreach safety rule: send **no more than 10 emails per day** for now.
 
 ## Website project status - paused
