@@ -79,6 +79,28 @@ Best quick-close / single-race or in-kind angles:
 - Dan's Paint & Body
 - Tint World Tucson
 
+## Sponsor lead automation plan
+
+- Goal: generate **20 high-quality sponsorship leads per day** for Andrew Chapman.
+- Quality matters more than raw volume.
+- Background lead research runs multiple times per day.
+- Morning and evening Telegram summaries report progress and strongest new leads.
+- When worthwhile leads are found, they should be added or updated in the Google Sheet tracker, not just mentioned in summaries.
+- Current reporting cadence:
+  - 10:00 AM US/Pacific summary
+  - 6:00 PM US/Pacific summary
+- Current background research cadence:
+  - 8:00 AM US/Pacific
+  - 12:00 PM US/Pacific
+  - 3:00 PM US/Pacific
+- High-quality means prioritizing:
+  - motorsports fit
+  - Arizona / California relevance when useful
+  - decision-maker quality
+  - real outreach potential
+  - contactability
+  - avoiding junk / filler leads
+
 ## Website project status - paused
 
 Andrew Chapman Racing website work is paused, but current progress should be preserved.
