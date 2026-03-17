@@ -23,7 +23,7 @@ Purpose: collect public media sources and references that can support website, s
 - Type: official series article, likely includes at least one professional photo reference
 - Why it matters: strong credibility source, useful for sponsor deck and website proof
 - Usefulness: very high
-- Downloadability from current environment: page/media access may be blocked by Cloudflare
+- Downloadability from current environment: direct page/media access currently blocked by Cloudflare (403)
 - Best use: citation source, official credibility, possible media source if image can be fetched manually later
 
 ### 3. YouTube - Meet the Driver
@@ -123,3 +123,5 @@ Purpose: collect public media sources and references that can support website, s
 2. Use this inventory to manually pull the highest-value public assets later.
 3. Build a separate approved media folder once actual image/video files are collected.
 4. Use official ARCA and race-media references as credibility sources in sponsor materials even when direct media extraction is blocked.
+ficial ARCA and race-media references as credibility sources in sponsor materials even when direct media extraction is blocked.
+or materials even when direct media extraction is blocked.
