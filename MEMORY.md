@@ -100,6 +100,7 @@ Best quick-close / single-race or in-kind angles:
   - real outreach potential
   - contactability
   - avoiding junk / filler leads
+- Active outreach safety rule: send **no more than 10 emails per day** for now.
 
 ## Website project status - paused
 
