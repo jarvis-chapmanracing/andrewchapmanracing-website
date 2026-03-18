@@ -90,12 +90,18 @@ Best quick-close / single-race or in-kind angles:
   - **Pitch-ready** - vetted, correctly routed, primary contact identified, alternate contact identified where possible, best outreach method chosen, and ready to act on
 - Only **pitch-ready** leads belong in the main Google Sheet.
 - A pitch-ready lead should be centered on an **actual human contact** at the company, not just a generic sponsor portal or generic inbox.
+- The human contact is a requirement, and the contact path should be vetted.
+- Valid contact path types include:
+  - email
+  - phone number
+  - LinkedIn
+  - Instagram
 - Every pitch-ready lead should have answers for:
   - why this company fits
   - why now
   - primary contact who is the right person for sponsorship
   - alternate human contact when possible
-  - a valid direct or high-confidence route to the primary contact (email, phone, LinkedIn)
+  - a valid direct or high-confidence route to the primary contact (email, phone, LinkedIn, or Instagram)
   - best outreach method
   - best outreach angle
   - whether it is genuinely worth acting on
