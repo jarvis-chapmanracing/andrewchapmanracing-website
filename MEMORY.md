@@ -107,6 +107,7 @@ Best quick-close / single-race or in-kind angles:
   - tools / industrial suppliers
   - regional Arizona / California brands
 - Use the installed lead stack deliberately during lead development:
+  - `Apollo API`
   - `linkedin-api`
   - `data-enricher`
   - `afrexai-prospect-researcher`
@@ -115,6 +116,7 @@ Best quick-close / single-race or in-kind angles:
   - `outreach`
   - `google-sheets`
   - `gmail`
+- Apollo should be used as part of lead research to help find the right human contact, verify titles, improve routing, and raise contact quality.
 - When worthwhile leads are found, they should be added or updated in the Google Sheet tracker, not just mentioned in summaries.
 - Daily operational email update:
   - 9:00 AM US/Pacific
