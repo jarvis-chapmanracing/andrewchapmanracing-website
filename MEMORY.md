@@ -89,11 +89,13 @@ Best quick-close / single-race or in-kind angles:
   - **Vetted** - good fit and researched, but still being developed
   - **Pitch-ready** - vetted, correctly routed, primary contact identified, alternate contact identified where possible, best outreach method chosen, and ready to act on
 - Only **pitch-ready** leads belong in the main Google Sheet.
+- A pitch-ready lead should be centered on an **actual human contact** at the company, not just a generic sponsor portal or generic inbox.
 - Every pitch-ready lead should have answers for:
   - why this company fits
   - why now
-  - primary contact
-  - alternate contact when possible
+  - primary contact who is the right person for sponsorship
+  - alternate human contact when possible
+  - a valid direct or high-confidence route to the primary contact (email, phone, LinkedIn)
   - best outreach method
   - best outreach angle
   - whether it is genuinely worth acting on
