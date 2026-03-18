@@ -32,7 +32,7 @@ Reject companies that are:
 - impractical to structure a deal with
 - sketchy or low quality
 
-Large national brands are not automatic rejects. Evaluate them case by case.
+Large national brands are not automatic rejects. Evaluate them case by case, but do not prioritize them unless they are clearly reachable and realistic.
 
 ## Contact targeting rules
 Choose contact targets based on company size.
@@ -66,15 +66,46 @@ Use only when stronger paths are unavailable:
 - low-level employees without decision power
 
 ## Contact path ranking
-Trust paths in this order:
+Use the highest-confidence route to the right person.
+
 1. direct company email
 2. LinkedIn profile or message path
-3. phone number
-4. Instagram DM
+3. Instagram DM
+4. phone number
 
 Treat these as ineffective by default:
 - contact form
 - generic company email
+
+## Act-now signals
+Prioritize leads when they have:
+- proximity to an upcoming race
+- a stronger or easier contact path
+- a contact more likely to respond
+- a higher likelihood of creating a deal
+- stronger brand fit
+
+## Required lead fields
+Always keep:
+- company name
+- company size
+- industry category
+- realistic deal type
+- stage
+- primary contact name
+- primary contact title
+- primary contact path
+- best outreach method
+- notes
+- source links
+
+Optional:
+- website
+- location
+- why it fits
+- why now
+- backup contact
+- backup contact path
 
 ## Stage gates
 
@@ -89,3 +120,10 @@ Use only when:
 - the right person is identified
 - the contact path is identified
 - the opportunity is ready for outreach
+
+## Mistakes to avoid
+- adding junk to hit volume
+- trusting generic inboxes
+- chasing companies that are too small and unrealistic
+- prioritizing flashy brands that are not actually reachable
+- forgetting that the goal is a real company Andrew can genuinely pitch a deal to

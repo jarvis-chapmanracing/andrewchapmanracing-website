@@ -1,6 +1,6 @@
 ---
 name: lead-qualification
-description: Qualify sponsorship or sales-style leads using a staged workflow that starts with company screening and only then identifies the right contact. Use when evaluating whether a company is worth pursuing, moving leads through the stages Candidate, Vetted, and Pitch-ready, choosing the right contact based on company size, ranking contact-path quality, or applying Andrew Chapman Racing lead standards before sheet entry or outreach.
+description: Qualify sponsorship or sales-style leads using a staged workflow that starts with company screening and only then identifies the right contact. Use when evaluating whether a company is worth pursuing, moving leads through the stages Candidate, Vetted, and Pitch-ready, choosing the right contact based on company size, selecting the highest-confidence outreach path, or applying Andrew Chapman Racing lead standards before sheet entry or outreach.
 ---
 
 # Lead Qualification
@@ -12,6 +12,7 @@ Keep the workflow strict:
 2. Keep only companies that are worth pursuing.
 3. Find the right person only after the company passes screening.
 4. Treat a lead as pitch-ready only when the right person and a usable contact path are identified.
+5. Prioritize real, reachable companies over flashy brands with weak access.
 
 ## Workflow
 
@@ -44,7 +45,7 @@ Reject companies that are:
 - impractical for any realistic sponsorship structure
 - sketchy or low quality
 
-Treat giant national brands case by case. Keep them only when there is a credible reason they are reachable or relevant.
+Treat giant national brands case by case. Do not prioritize them unless there is a credible reason they are reachable and actionable.
 
 ### 3. Choose the right contact by company size
 For smaller companies, prefer:
@@ -67,12 +68,14 @@ Avoid treating these as useful contacts:
 - generic HR inboxes
 - low-level employees without decision power
 
-### 4. Rank contact paths
-Use this order of trust:
-1. Direct company email
-2. LinkedIn profile or message path
-3. Phone number
-4. Instagram DM
+### 4. Choose the outreach path by confidence
+Use the highest-confidence direct path to the right person.
+
+Path order:
+1. Direct company email if confidence is high
+2. LinkedIn if email confidence is weak
+3. Instagram if LinkedIn confidence is weak
+4. Phone if none of the others are confident paths
 
 Treat these as not meaningful for pitch-ready status:
 - contact forms
@@ -90,16 +93,59 @@ The company fit is confirmed and worth pursuing, but the right person or route i
 #### Pitch-ready
 The right person is identified, the contact is identified, and the opportunity is ready for outreach.
 
+### 6. Prioritize which leads to act on now
+Move leads up the list when they have:
+- proximity to an upcoming race
+- a stronger or easier contact path
+- a contact that is more likely to respond
+- a higher likelihood of turning into a real deal
+- stronger brand fit
+
+## Required lead record fields
+Always preserve:
+- company name
+- company size
+- industry category
+- realistic deal type
+- stage
+- primary contact name
+- primary contact title
+- primary contact path
+- best outreach method
+- notes
+- source links
+
+Optional fields:
+- website
+- location
+- why it fits
+- why now
+- backup contact
+- backup contact path
+
 ## Output expectations
 When qualifying a lead, clearly provide:
 - company name
-- company type and size impression
-- why it fits or fails
-- deal type(s) that seem realistic
-- current stage: Candidate, Vetted, or Pitch-ready
-- target contact and why that person is right
-- best contact path and backup path
-- key risks or gaps
+- stage
+- industry/category
+- company size
+- realistic deal type
+- primary contact name
+- primary contact title
+- primary contact path
+- best outreach method
+- notes on why the lead is worth keeping or rejecting
+- source links
+
+Add optional fields when they help.
+
+## Judgment rules
+- Use stage plus judgment, not a numeric score.
+- Do not add junk just to hit volume.
+- Do not trust generic inboxes as real contact paths.
+- Do not chase companies that are too small to support a realistic sponsorship opportunity.
+- Do not prioritize flashy brands that are not meaningfully reachable.
+- Prefer real companies Andrew can actually pitch a deal to.
 
 ## Required references
 Read these files when doing real lead work:

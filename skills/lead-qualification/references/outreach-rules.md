@@ -11,13 +11,18 @@ Sequence:
 3. identify the best person based on company size
 4. identify the best contact path
 5. decide whether the lead is pitch-ready
+6. prioritize the lead only if it is actionable now
 
-## Route quality
-Best to worst:
-1. direct company email
-2. LinkedIn
-3. phone number
-4. Instagram DM
+## Route selection
+Use the highest-confidence path to the right person.
+
+Priority order:
+1. email, when there is a direct email you are confident in
+2. LinkedIn, when you are not confident in the email
+3. Instagram, when you are not confident in LinkedIn
+4. phone, when none of the others are confident paths
+
+Email is the preferred first option when it is solid.
 
 Do not treat these as sufficient for a strong lead by themselves:
 - contact form
@@ -36,6 +41,16 @@ A lead is outreach-ready only when:
 - a usable contact path is identified
 - the deal looks practical enough to propose
 
+## Prioritization logic
+Act sooner when the lead has:
+- proximity to an upcoming race
+- a stronger contact path
+- a contact more likely to respond
+- a better chance of turning into a deal
+- stronger brand fit
+
 ## Important caution
 Do not mistake "a company exists" for "a company is a lead."
 A lead only becomes high quality when the company is worth pursuing and the right contact path is established.
+
+Prefer real, reachable companies over flashy names that are unlikely to produce a real deal.

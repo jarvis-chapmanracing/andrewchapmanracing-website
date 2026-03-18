@@ -2,44 +2,37 @@
 
 Use these examples as judgment anchors.
 
-## Good company target
-A mid-size regional brand near an upcoming ARCA West race that is actively advertising, has a clear marketing team, and would benefit from local visibility and social content. The company may not be in motorsports already, but sponsoring a race car still makes marketing sense.
+## Great lead
+A startup or mid-size brand that is actively trying to grow, has visible marketing activity, fits Andrew Chapman Racing well, and could realistically support a single-race, in-kind, or season-long deal. The right decision-maker is identified and there is a confident outreach path, ideally a direct email.
 
 Why it works:
 - growth-oriented
-- likely marketing budget
-- clear content and awareness upside
 - realistic sponsorship structure
+- strong brand fit
+- real decision-maker identified
+- reachable in a practical way
 
-## Vetted but not pitch-ready
-A strong startup brand with good community presence and visible marketing activity. The company clearly fits Andrew Chapman Racing, but the correct contact is not yet confirmed. There may only be a likely marketing lead on LinkedIn and no direct email yet.
+## Decent but not ready
+A company that clearly fits and is worth pursuing, but the contact work is incomplete. The business may be strong and timely, yet there is no confirmed best person or no high-confidence path to that person.
 
 Why it stays Vetted:
 - company fit is confirmed
 - worth pursuing
 - person and route still incomplete
 
-## Pitch-ready
-A mid-size brand that fits Andrew's image, has obvious marketing value from racing content, and can plausibly support a single-race or in-kind deal. The marketing director is identified, a direct company email exists, and the outreach angle is clear.
-
-Why it qualifies:
-- company passed screening
-- correct contact found
-- strong contact path found
-- opportunity is ready for outreach
-
-## Reject
-A small inactive business with little or no visible marketing and no realistic sponsorship structure.
+## Bad lead
+A company that is too small, inactive, low quality, or shows no visible marketing spend. Even if the business is somewhat relevant, it does not look capable of doing a real sponsorship deal.
 
 Why it fails:
-- too small
-- no visible spend
-- no practical deal likely
+- weak budget likelihood
+- low marketing activity
+- no realistic deal likely
 
-## Borderline large brand
-A major national brand with strong fit and active sponsorship behavior, but no obvious entry point. Keep only if there is a clear reason it is reachable, such as a formal sponsorship program, local race-market activation, or a named marketing contact.
+## Looks good at first but is actually weak
+A flashy national brand with obvious visibility and surface-level fit, but no real path in. It may be famous or look exciting, but there is no reachable contact, no realistic deal structure, and low probability of a response.
 
-Why it is case by case:
-- may have budget and fit
-- often hard to access
-- should not be treated as automatically good
+Why it is weak:
+- attractive on paper
+- low practical access
+- low odds of a real deal
+- can waste time that should go to better targets

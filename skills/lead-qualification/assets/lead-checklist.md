@@ -2,20 +2,33 @@
 
 Use this as a quick evaluation template.
 
-## Company
-- Company:
+## Required fields
+- Company name:
+- Company size:
+- Industry category:
+- Realistic deal type:
+- Stage:
+- Primary contact name:
+- Primary contact title:
+- Primary contact path:
+- Best outreach method:
+- Notes:
+- Source links:
+
+## Optional fields
 - Website:
 - Location:
-- Company size impression: startup / mid-size / other
-- Growth signal:
-- Marketing activity signal:
+- Why it fits:
+- Why now:
+- Backup contact:
+- Backup contact path:
 
-## Fit
-- Why this company fits Andrew Chapman Racing:
+## Company screen
+- Is it a startup or mid-size brand:
+- Is it trying to grow:
+- Visible marketing activity:
+- Near an upcoming ARCA West race market:
 - Would racing sponsorship make natural marketing sense:
-- Likely value type: brand awareness / social content / brand fit / community presence
-- Near an upcoming ARCA West race market: yes / no / somewhat
-- Realistic deal type: single-race / in-kind / season-long
 
 ## Disqualifier check
 - Too small: yes / no
@@ -24,14 +37,9 @@ Use this as a quick evaluation template.
 - No practical deal structure: yes / no
 - Sketchy or low quality: yes / no
 
-## Contact
-- Preferred role based on company size:
-- Primary target person:
-- Title:
-- Best contact path:
-- Backup contact path:
-
-## Stage
-- Candidate / Vetted / Pitch-ready
-- Missing piece before next stage:
-- Notes:
+## Priority check
+- Close to upcoming race:
+- Strong contact path:
+- Likely to respond:
+- Likely to turn into deal:
+- Strong brand fit:
