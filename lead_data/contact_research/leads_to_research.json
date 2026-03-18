@@ -1,0 +1,18 @@
+{
+  "duplicates_to_remove": [71],
+  "unrealistic_leads_to_flag": [
+    {"row": 93, "company": "In-N-Out Burger", "reason": "No racing program, massive corp - unrealistic"},
+    {"row": 94, "company": "Reese's / Hershey", "reason": "Series-level sponsor only, no individual driver program"},
+    {"row": 106, "company": "Jose Cuervo / Campari America", "reason": "Alcohol brand with no racing program - unrealistic"},
+    {"row": 115, "company": "Jockey International", "reason": "No motorsports connection - unrealistic"},
+    {"row": 105, "company": "Hardee's / CKE Restaurants", "reason": "Massive corp, no individual driver program"},
+    {"row": 100, "company": "BodyArmor Sports Drink", "reason": "Contact listed is Ryan Blaney (NASCAR driver), not a company contact"}
+  ],
+  "batches": {
+    "batch1_rows_2_to_20": "Rows 2-20: Chapman Auto, Jim Click, Atomic, Vivid, Crown, Cordes, GoodSpeed, Lopers, Apex, AZ Sport Shirts, Ramjets, Sun Valley Solar, Driven Racing Oil, Maxima, Sparco, Bell Racing, Wilwood, Torco, LAT Racing",
+    "batch2_rows_21_to_40": "Rows 21-40: QA1, Pit Viper, Lucas Oil, Simpson, VP Racing, Justice Brothers, Heatshield, WIX, GoPro, C4 Energy, Borla, AEM, OPTIMA, MPI, Hyperice, Hot Shots Secret, Red Line, Hawk Racing, Rugged Radios, Racing Optics",
+    "batch3_rows_41_to_60": "Rows 41-60: Mechanix Wear, Safecraft, Stand 21, Chillout, AFCO, WELD, Pyrotect, ButlerBuilt, Schaeffers, KSE, E3 Spark Plugs, RIGID, JOES Racing, Five Star, Race Star, Sioux Chief, General Tire, Baja Designs, GHOST Energy, Permatex",
+    "batch4_rows_61_to_80": "Rows 61-80: Molecule Sports, Toyo, Oakley, Arai, Sunoco, DirtFish, 5.11, Holley, Summit Racing, RacingJunk, (skip dup Maxima 71), Royal Purple, Blud, RECARO, K1 RaceGear, Celsius, Huss Brewing, Anest Iwata, Flex Seal, Vision Wheel",
+    "batch5_rows_81_to_115": "Rows 81-115: O'Reilly, Discount Tire, Sherwin-Williams, Reign, Eastwood, Freeway Insurance, PPG, AutoZone, Cometic, FVP, Menards, Earnhardt Auto, In-N-Out, Reeses, SafetyCulture, Scosche, Idemitsu, CRC, Racing Radios, BodyArmor, Spectra, Racepak, Contingency Connection, West Coast Sponsorships, Hardees, Jose Cuervo, AiM, PDS, Proform, Racing Electronics, Sweet Mfg, Cool Shirt, Sampson Racing, Longacre, Jockey"
+  }
+}

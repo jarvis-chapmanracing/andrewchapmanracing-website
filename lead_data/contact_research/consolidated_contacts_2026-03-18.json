@@ -1,0 +1,800 @@
+{
+  "updated_at_utc": "2026-03-18T22:18:00Z",
+  "rows_updated_from_research": [
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35,
+    36,
+    37,
+    38,
+    39,
+    40,
+    41,
+    42,
+    43,
+    44,
+    45,
+    46,
+    47,
+    48,
+    49,
+    50,
+    51,
+    52,
+    53,
+    54,
+    55,
+    56,
+    57,
+    58,
+    59,
+    60,
+    61,
+    62,
+    63,
+    64,
+    65,
+    66,
+    67,
+    68,
+    69,
+    70,
+    72,
+    73,
+    74,
+    75,
+    76,
+    77,
+    78,
+    79,
+    80,
+    81,
+    82,
+    83,
+    84,
+    85,
+    86,
+    87,
+    88,
+    89,
+    90,
+    91,
+    92,
+    95,
+    96,
+    97,
+    98,
+    99,
+    100,
+    101,
+    102,
+    103,
+    104,
+    107,
+    108,
+    109,
+    110,
+    111,
+    112,
+    113,
+    114
+  ],
+  "cleanup_rows": {
+    "71": {
+      "status": "Drop - duplicate",
+      "outcome": "Merged to row 15",
+      "notes": "Duplicate Maxima Racing Oils entry. Use row 15 as the canonical record."
+    },
+    "38": {
+      "status": "Drop - wrong company",
+      "outcome": "Research mismatch",
+      "notes": "Hawk Racing researched here is a cycling company. If revisiting, replace with Hawk Performance automotive brakes."
+    },
+    "93": {
+      "status": "Drop - poor fit",
+      "outcome": "Remove from active list",
+      "notes": "In-N-Out Burger has no clear motorsports sponsorship path or direct contact for development-driver outreach."
+    },
+    "94": {
+      "status": "Drop - poor fit",
+      "outcome": "Remove from active list",
+      "notes": "Reese's / Hershey is a series-level activation, not a realistic direct sponsor target here."
+    },
+    "105": {
+      "status": "Drop - poor fit",
+      "outcome": "Remove from active list",
+      "notes": "Hardee's / CKE Restaurants is a weak fit with no practical direct motorsports contact found."
+    },
+    "106": {
+      "status": "Drop - poor fit",
+      "outcome": "Remove from active list",
+      "notes": "Jose Cuervo / Campari America is an unrealistic alcohol-brand target with no useful direct path found."
+    },
+    "115": {
+      "status": "Drop - poor fit",
+      "outcome": "Remove from active list",
+      "notes": "Jockey International is not a strong motorsports fit and no actionable sponsor contact was found."
+    }
+  },
+  "summary": [
+    {
+      "row": 2,
+      "company": "Chapman Automotive Group",
+      "contact_name": "Leah Potts",
+      "confidence": "high"
+    },
+    {
+      "row": 3,
+      "company": "Jim Click Automotive Team",
+      "contact_name": "Lindsay Hinton",
+      "confidence": "high"
+    },
+    {
+      "row": 4,
+      "company": "Atomic Auto Wraps",
+      "contact_name": "Damian",
+      "confidence": "high"
+    },
+    {
+      "row": 5,
+      "company": "Vivid Racing",
+      "contact_name": "Dan Mermelstein",
+      "confidence": "medium"
+    },
+    {
+      "row": 6,
+      "company": "Crown Concepts",
+      "contact_name": "Curtis Brown",
+      "confidence": "high"
+    },
+    {
+      "row": 7,
+      "company": "Cordes Performance Racing",
+      "contact_name": "Joe (Cordes)",
+      "confidence": "high"
+    },
+    {
+      "row": 8,
+      "company": "GoodSpeed Performance Lab",
+      "contact_name": "Joe Morell",
+      "confidence": "medium"
+    },
+    {
+      "row": 9,
+      "company": "Lopers Performance Center",
+      "contact_name": "Unknown (current owner/manager)",
+      "confidence": "low"
+    },
+    {
+      "row": 10,
+      "company": "Apex Customs",
+      "contact_name": "Tyler Copenhaver-Heath",
+      "confidence": "high"
+    },
+    {
+      "row": 11,
+      "company": "Arizona Sport Shirts / Gotta Race",
+      "contact_name": "Gerald Newton",
+      "confidence": "high"
+    },
+    {
+      "row": 12,
+      "company": "Ramjet's Speed Shop",
+      "contact_name": "Ron Ramjet / Tony M.",
+      "confidence": "medium"
+    },
+    {
+      "row": 13,
+      "company": "Sun Valley Solar Solutions",
+      "contact_name": "Kyle Ritland",
+      "confidence": "high"
+    },
+    {
+      "row": 14,
+      "company": "Driven Racing Oil",
+      "contact_name": "Sponsorship Program (via online application)",
+      "confidence": "medium"
+    },
+    {
+      "row": 15,
+      "company": "Maxima Racing Oils",
+      "contact_name": "Tory Zamakhovskaya",
+      "confidence": "high"
+    },
+    {
+      "row": 16,
+      "company": "Sparco USA",
+      "contact_name": "Billy Deakins",
+      "confidence": "medium"
+    },
+    {
+      "row": 17,
+      "company": "Bell Racing (Athlete Support Program)",
+      "contact_name": "Rory Overmyer",
+      "confidence": "low"
+    },
+    {
+      "row": 18,
+      "company": "Wilwood Engineering",
+      "contact_name": "John Grieco",
+      "confidence": "high"
+    },
+    {
+      "row": 19,
+      "company": "Torco USA",
+      "contact_name": "Ned Tanson",
+      "confidence": "medium"
+    },
+    {
+      "row": 20,
+      "company": "LAT Racing Oils",
+      "contact_name": "Danny Vaca",
+      "confidence": "high"
+    },
+    {
+      "row": 21,
+      "company": "QA1 (Suspension)",
+      "contact_name": "David Kass",
+      "confidence": "medium"
+    },
+    {
+      "row": 22,
+      "company": "Pit Viper Sunglasses",
+      "contact_name": "Chuck Mumford",
+      "confidence": "low"
+    },
+    {
+      "row": 23,
+      "company": "Lucas Oil Products (Ambassador Program)",
+      "contact_name": "Brandon Bernstein",
+      "confidence": "high"
+    },
+    {
+      "row": 24,
+      "company": "Simpson Race Products",
+      "contact_name": "Preston Folkestad",
+      "confidence": "medium"
+    },
+    {
+      "row": 25,
+      "company": "VP Racing Fuels",
+      "contact_name": "Steve Scheidker",
+      "confidence": "high"
+    },
+    {
+      "row": 26,
+      "company": "Justice Brothers",
+      "contact_name": "Ed Justice Jr.",
+      "confidence": "medium"
+    },
+    {
+      "row": 27,
+      "company": "Heatshield Products",
+      "contact_name": "Bruce Heye",
+      "confidence": "medium"
+    },
+    {
+      "row": 28,
+      "company": "WIX Filters (Team WIX Racing)",
+      "contact_name": "Tina Davis",
+      "confidence": "high"
+    },
+    {
+      "row": 29,
+      "company": "GoPro",
+      "contact_name": "Hannah Stevenson",
+      "confidence": "low"
+    },
+    {
+      "row": 30,
+      "company": "C4 Energy / Nutrabolt",
+      "contact_name": "Robert Zajac",
+      "confidence": "low"
+    },
+    {
+      "row": 31,
+      "company": "Borla Performance Industries",
+      "contact_name": "David Borla",
+      "confidence": "high"
+    },
+    {
+      "row": 32,
+      "company": "AEM Performance Electronics",
+      "contact_name": "Lawson Mollica",
+      "confidence": "medium"
+    },
+    {
+      "row": 33,
+      "company": "OPTIMA Batteries",
+      "contact_name": "Cam Douglass",
+      "confidence": "medium"
+    },
+    {
+      "row": 34,
+      "company": "MPI (Max Papis Innovations)",
+      "contact_name": "Max Papis",
+      "confidence": "high"
+    },
+    {
+      "row": 35,
+      "company": "Hyperice",
+      "contact_name": "Alex Reinhard",
+      "confidence": "low"
+    },
+    {
+      "row": 36,
+      "company": "Hot Shot's Secret (Lubrication Specialties)",
+      "contact_name": "Kyle Fischer",
+      "confidence": "high"
+    },
+    {
+      "row": 37,
+      "company": "Red Line Synthetic Oil",
+      "contact_name": "Justin Johnson",
+      "confidence": "medium"
+    },
+    {
+      "row": 38,
+      "company": "Hawk Racing (Hawk Performance)",
+      "contact_name": "Sven Folmer",
+      "confidence": "low"
+    },
+    {
+      "row": 39,
+      "company": "Rugged Radios",
+      "contact_name": "Dustin Ensign",
+      "confidence": "high"
+    },
+    {
+      "row": 40,
+      "company": "Racing Optics",
+      "contact_name": "Bart Wilson",
+      "confidence": "high"
+    },
+    {
+      "row": 41,
+      "company": "Mechanix Wear",
+      "contact_name": "Jordan Dull",
+      "confidence": "high"
+    },
+    {
+      "row": 42,
+      "company": "Safecraft Safety Equipment",
+      "contact_name": "Pat O'Keefe",
+      "confidence": "medium"
+    },
+    {
+      "row": 43,
+      "company": "Stand 21 USA",
+      "contact_name": "Cl\u00e9ment Chaudonneret",
+      "confidence": "high"
+    },
+    {
+      "row": 44,
+      "company": "Chillout Motorsports",
+      "contact_name": "Charles Kline",
+      "confidence": "medium"
+    },
+    {
+      "row": 45,
+      "company": "AFCO Racing Products",
+      "contact_name": "Kerri Hart",
+      "confidence": "high"
+    },
+    {
+      "row": 46,
+      "company": "WELD Racing Wheels",
+      "contact_name": "Patrick Daly",
+      "confidence": "medium"
+    },
+    {
+      "row": 47,
+      "company": "Pyrotect Safety",
+      "contact_name": "Steve Russell",
+      "confidence": "medium"
+    },
+    {
+      "row": 48,
+      "company": "ButlerBuilt Motorsports Equipment",
+      "contact_name": "Brian Butler",
+      "confidence": "medium"
+    },
+    {
+      "row": 49,
+      "company": "Schaeffer's Specialized Lubricants",
+      "contact_name": "Dawn Cross",
+      "confidence": "high"
+    },
+    {
+      "row": 50,
+      "company": "KSE Racing Products",
+      "contact_name": "Daniel Korrect",
+      "confidence": "medium"
+    },
+    {
+      "row": 51,
+      "company": "E3 Spark Plugs",
+      "contact_name": "Rob Fisher",
+      "confidence": "high"
+    },
+    {
+      "row": 52,
+      "company": "RIGID Industries",
+      "contact_name": "Mitch Williams",
+      "confidence": "medium"
+    },
+    {
+      "row": 53,
+      "company": "JOES Racing Products",
+      "contact_name": "Joseph (Joe) Constance",
+      "confidence": "high"
+    },
+    {
+      "row": 54,
+      "company": "Five Star Race Car Bodies",
+      "contact_name": "Corey Schultz",
+      "confidence": "high"
+    },
+    {
+      "row": 55,
+      "company": "Race Star Industries",
+      "contact_name": "L.B. Davis",
+      "confidence": "medium"
+    },
+    {
+      "row": 56,
+      "company": "Sioux Chief Manufacturing",
+      "contact_name": "Joe N. Ismert",
+      "confidence": "low"
+    },
+    {
+      "row": 57,
+      "company": "General Tire",
+      "contact_name": "Travis Roffler",
+      "confidence": "medium"
+    },
+    {
+      "row": 58,
+      "company": "Baja Designs",
+      "contact_name": "Ucok Sawer",
+      "confidence": "medium"
+    },
+    {
+      "row": 59,
+      "company": "GHOST Energy / GHOST Lifestyle",
+      "contact_name": "Ryan Hughes",
+      "confidence": "low"
+    },
+    {
+      "row": 60,
+      "company": "Permatex",
+      "contact_name": "Paco Agrafojo",
+      "confidence": "high"
+    },
+    {
+      "row": 61,
+      "company": "Molecule Sports (Holley/Simpson)",
+      "contact_name": "General Inquiry (small company, ~17 employees)",
+      "confidence": "medium"
+    },
+    {
+      "row": 62,
+      "company": "Toyo Tires",
+      "contact_name": "Stan Chen",
+      "confidence": "high"
+    },
+    {
+      "row": 63,
+      "company": "Oakley",
+      "contact_name": "Erin McInnis",
+      "confidence": "low"
+    },
+    {
+      "row": 64,
+      "company": "Arai Helmets Americas",
+      "contact_name": "Jeff Weil",
+      "confidence": "medium"
+    },
+    {
+      "row": 65,
+      "company": "Sunoco Race Fuels",
+      "contact_name": "Fred McConnell",
+      "confidence": "high"
+    },
+    {
+      "row": 66,
+      "company": "DirtFish Rally School",
+      "contact_name": "Steve Rimmer",
+      "confidence": "medium"
+    },
+    {
+      "row": 67,
+      "company": "5.11 Tactical",
+      "contact_name": "Sponsorship Department",
+      "confidence": "high"
+    },
+    {
+      "row": 68,
+      "company": "Holley Performance Brands",
+      "contact_name": "Bill Tichenor",
+      "confidence": "high"
+    },
+    {
+      "row": 69,
+      "company": "SRI Performance / Summit Racing",
+      "contact_name": "Motorsports Department",
+      "confidence": "high"
+    },
+    {
+      "row": 70,
+      "company": "RacingJunk.com",
+      "contact_name": "Andreanna Ditton",
+      "confidence": "medium"
+    },
+    {
+      "row": 72,
+      "company": "Royal Purple",
+      "contact_name": "Fred Kneipp",
+      "confidence": "medium"
+    },
+    {
+      "row": 73,
+      "company": "Blud Lubricants",
+      "contact_name": "Jeff Green",
+      "confidence": "high"
+    },
+    {
+      "row": 74,
+      "company": "RECARO Automotive",
+      "contact_name": "Sponsorship Department",
+      "confidence": "high"
+    },
+    {
+      "row": 75,
+      "company": "K1 RaceGear",
+      "contact_name": "Jacob Brown",
+      "confidence": "high"
+    },
+    {
+      "row": 76,
+      "company": "Celsius Energy",
+      "contact_name": "Kyle Watson",
+      "confidence": "high"
+    },
+    {
+      "row": 77,
+      "company": "Huss Brewing Co.",
+      "contact_name": "Jeff Huss",
+      "confidence": "high"
+    },
+    {
+      "row": 78,
+      "company": "Anest Iwata USA",
+      "contact_name": "Nicolle LouAllen",
+      "confidence": "medium"
+    },
+    {
+      "row": 79,
+      "company": "Flex Seal (Swift Response LLC)",
+      "contact_name": "Phil Swift (CEO) / Ryan Swift (Director of Marketing)",
+      "confidence": "medium"
+    },
+    {
+      "row": 80,
+      "company": "Vision Wheel",
+      "contact_name": "Todd Robinson",
+      "confidence": "medium"
+    },
+    {
+      "row": 81,
+      "company": "O'Reilly Auto Parts",
+      "contact_name": "Hugo Sanchez",
+      "confidence": "high"
+    },
+    {
+      "row": 82,
+      "company": "Discount Tire",
+      "contact_name": "Mark Marrufo",
+      "confidence": "medium"
+    },
+    {
+      "row": 83,
+      "company": "Sherwin-Williams Automotive Finishes",
+      "contact_name": "Dan Szczepanik",
+      "confidence": "high"
+    },
+    {
+      "row": 84,
+      "company": "Reign Total Body Fuel",
+      "contact_name": "General Sponsorship Contact",
+      "confidence": "low"
+    },
+    {
+      "row": 85,
+      "company": "Eastwood Company",
+      "contact_name": "Nick Capinski",
+      "confidence": "medium"
+    },
+    {
+      "row": 86,
+      "company": "Freeway Insurance",
+      "contact_name": "Barney Harris",
+      "confidence": "high"
+    },
+    {
+      "row": 87,
+      "company": "PPG Industries (Automotive Refinish)",
+      "contact_name": "Bill Shaw",
+      "confidence": "high"
+    },
+    {
+      "row": 88,
+      "company": "AutoZone / Duralast",
+      "contact_name": "Philip B. Daniele III",
+      "confidence": "low"
+    },
+    {
+      "row": 89,
+      "company": "Cometic Gasket",
+      "contact_name": "Matt Klug",
+      "confidence": "high"
+    },
+    {
+      "row": 90,
+      "company": "FVP Parts",
+      "contact_name": "General Sponsorship Contact",
+      "confidence": "low"
+    },
+    {
+      "row": 91,
+      "company": "Menards",
+      "contact_name": "John Menard",
+      "confidence": "low"
+    },
+    {
+      "row": 92,
+      "company": "Earnhardt Auto Centers",
+      "contact_name": "Chris Kerr",
+      "confidence": "high"
+    },
+    {
+      "row": 95,
+      "company": "SafetyCulture",
+      "contact_name": "General Contact",
+      "confidence": "low"
+    },
+    {
+      "row": 96,
+      "company": "Scosche Industries",
+      "contact_name": "Kasidy Alves",
+      "confidence": "high"
+    },
+    {
+      "row": 97,
+      "company": "Idemitsu Lubricants America",
+      "contact_name": "Bob Hashmi",
+      "confidence": "high"
+    },
+    {
+      "row": 98,
+      "company": "CRC Industries",
+      "contact_name": "Julie Williams (Waters)",
+      "confidence": "high"
+    },
+    {
+      "row": 99,
+      "company": "Racing Radios",
+      "contact_name": "Bruce Silver",
+      "confidence": "high"
+    },
+    {
+      "row": 100,
+      "company": "BodyArmor Sports Drink",
+      "contact_name": "Tom Gargiulo",
+      "confidence": "high"
+    },
+    {
+      "row": 101,
+      "company": "Spectra Premium Industries",
+      "contact_name": "Eric Carr",
+      "confidence": "medium"
+    },
+    {
+      "row": 102,
+      "company": "Racepak (Holley brand)",
+      "contact_name": "FM3 Performance Marketing (Holley's agency)",
+      "confidence": "high"
+    },
+    {
+      "row": 103,
+      "company": "Contingency Connection",
+      "contact_name": "General Contact",
+      "confidence": "low"
+    },
+    {
+      "row": 104,
+      "company": "West Coast Sponsorships",
+      "contact_name": "Todd Souza",
+      "confidence": "medium"
+    },
+    {
+      "row": 107,
+      "company": "AiM Sports / AiM Technologies",
+      "contact_name": "AiM Sports LLC USA Office",
+      "confidence": "low"
+    },
+    {
+      "row": 108,
+      "company": "Performance Data Systems (PDS)",
+      "contact_name": "General Contact",
+      "confidence": "low"
+    },
+    {
+      "row": 109,
+      "company": "Proform Parts",
+      "contact_name": "Ryan Salata",
+      "confidence": "high"
+    },
+    {
+      "row": 110,
+      "company": "Racing Electronics",
+      "contact_name": "Bruce Silver",
+      "confidence": "high"
+    },
+    {
+      "row": 111,
+      "company": "Sweet Manufacturing",
+      "contact_name": "Randy Sweet",
+      "confidence": "medium"
+    },
+    {
+      "row": 112,
+      "company": "Cool Shirt Systems",
+      "contact_name": "Tom Engebretson",
+      "confidence": "high"
+    },
+    {
+      "row": 113,
+      "company": "Sampson Racing Communications (SRC)",
+      "contact_name": "Shawn Sampson",
+      "confidence": "high"
+    },
+    {
+      "row": 114,
+      "company": "Longacre Racing Products",
+      "contact_name": "Jack Jaynes",
+      "confidence": "high"
+    }
+  ]
+}
