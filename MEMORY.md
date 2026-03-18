@@ -141,7 +141,7 @@ Best quick-close / single-race or in-kind angles:
   - contactability
   - avoiding junk / filler leads
 - Only add leads to the Google Sheet if they have a vetted contact path and are ready to pitch.
-- When a new lead is added to the sheet and email is the correct outreach path, draft the initial outreach email, send Andrew a Telegram message asking for approval or rejection, and only send after approval. If approved, mark the lead as contacted in the sheet.
+- When a new lead is added to the sheet and email is the correct outreach path, immediately draft the initial outreach email and send Andrew a Telegram approval request in that run. Do not wait for a summary. Only send after approval. If approved, mark the lead as contacted in the sheet.
 - Active outreach email rule: **aim for 10 outreach emails per day, but do not exceed 10**.
 
 ## Website project status - paused
