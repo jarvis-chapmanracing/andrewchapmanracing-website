@@ -135,9 +135,15 @@ If the public web does not surface a strong person or path:
 
 ## Skill handoff rules
 Use this skill as the discovery layer, then hand off to the right existing skill:
+- `data-enricher` as the default next step for email discovery and contact-path strengthening
 - `lead-qualification` for sponsor or sales readiness, stage assignment, and outreach-path judgment
-- `data-enricher` for stronger email discovery when the public web only gives partial clues
 - `linkedin` for LinkedIn-backed company or person verification when that access is available
+
+Recommended sequence for most real work:
+1. `company-contact-finder`
+2. `data-enricher`
+3. `lead-qualification`
+4. `linkedin` when extra verification is worth the effort
 
 Do not duplicate those skills inside this one. Use them.
 
