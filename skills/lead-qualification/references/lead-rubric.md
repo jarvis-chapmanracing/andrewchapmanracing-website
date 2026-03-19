@@ -127,6 +127,72 @@ Use only when:
 - accepting named contacts without direct paths to those contacts
 - treating portal-only access as strong
 - treating missing contact names as acceptable
+- confusing company quality with contact verification quality
+- chasing companies that are too small and unrealistic
+- prioritizing flashy brands that are not actually reachable
+- forgetting that the goal is a real company Andrew can genuinely pitch a deal to
+that the goal is a real company Andrew can genuinely pitch a deal to
+are too small and unrealistic
+- prioritizing flashy brands that are not actually reachable
+- forgetting that the goal is a real company Andrew can genuinely pitch a deal to
+
+or a small company
+
+### Instagram
+- V0: unclear or inactive account
+- V2: official active brand or founder account
+- V3-V4: official active account clearly useful for business contact
+
+## Act-now signals
+Prioritize leads when they have:
+- proximity to an upcoming race
+- a stronger or easier contact path
+- a contact more likely to respond
+- a higher likelihood of creating a deal
+- stronger brand fit
+
+## Required lead fields
+Always keep:
+- company name
+- company size
+- industry category
+- realistic deal type
+- stage
+- primary contact name
+- primary contact title
+- primary contact path
+- best outreach method
+- notes
+- source links
+
+Optional:
+- website
+- location
+- why it fits
+- why now
+- backup contact
+- backup contact path
+
+## Stage gates
+
+### Candidate
+Use when the company appears promising, but research is still incomplete.
+
+### Vetted
+Use when company fit is confirmed and worth pursuing, but the right person or route is still incomplete.
+
+### Pitch-ready
+Use only when:
+- the right person is identified
+- the contact path is identified
+- the opportunity is ready for outreach
+
+## Mistakes to avoid
+- adding junk to hit volume
+- trusting generic inboxes
+- accepting named contacts without direct paths to those contacts
+- treating portal-only access as strong
+- treating missing contact names as acceptable
 - chasing companies that are too small and unrealistic
 - prioritizing flashy brands that are not actually reachable
 - forgetting that the goal is a real company Andrew can genuinely pitch a deal to

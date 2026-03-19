@@ -106,6 +106,45 @@ Move leads up the list when they have:
 - a higher likelihood of turning into a real deal
 - stronger brand fit
 
+### 7. Score contact verification separately
+Do not treat "a contact exists" as enough. Grade the contact path itself.
+
+Verification levels:
+- V0 - Unverified
+  - guessed path, generic inbox, portal only, stale profile, or no proof the path reaches the person
+- V1 - Weakly verified
+  - person likely exists at the company, but the path is inferred or loosely tied
+- V2 - Moderately verified
+  - person clearly works there now and the path is likely real, but not strongly confirmed
+- V3 - Strongly verified
+  - direct evidence the path goes to that person now
+- V4 - Confirmed
+  - strongest current proof, often from multiple reliable sources or official contact listing
+
+Examples by channel:
+- Email
+  - V0: generic inbox or guessed pattern only
+  - V2: direct email in one credible public source
+  - V3-V4: direct email on official company site, official PR, or multiple reliable sources
+- LinkedIn
+  - V0: stale or uncertain profile
+  - V2: current role appears valid
+  - V3-V4: current active profile with clear role relevance and recency
+- Phone
+  - V0: generic switchboard only
+  - V2: department line or likely business number
+  - V3-V4: direct line, extension, or founder-owner main line for a small business
+- Instagram
+  - V0: unclear or inactive account
+  - V2: official active brand/person account
+  - V3-V4: official active account clearly used for business contact or decision-maker access
+
+Stage rules with verification:
+- Candidate: no minimum verification required
+- Vetted: contact can be V1-V2
+- Pitch-ready: best path should be V3 or better and point directly to the named person
+- Best-in-class lead: direct email plus V4
+
 ## Required lead record fields
 Always preserve:
 - company name
@@ -116,6 +155,9 @@ Always preserve:
 - primary contact name
 - primary contact title
 - primary contact path
+- contact path type
+- contact verification level
+- verification evidence
 - best outreach method
 - notes
 - source links
@@ -148,9 +190,15 @@ Add optional fields when they help.
 - Use stage plus judgment, not a numeric score.
 - Do not add junk just to hit volume.
 - Do not trust generic inboxes as real contact paths.
+- Do not treat a named contact plus a generic inbox as a good lead.
+- Do not treat portal-only access as a strong lead.
+- Do not treat missing contact names as acceptable.
+- Do not confuse company quality with contact verification quality.
+- A great company with a V0-V1 path is still an incomplete lead.
 - Do not chase companies that are too small to support a realistic sponsorship opportunity.
 - Do not prioritize flashy brands that are not meaningfully reachable.
 - Prefer real companies Andrew can actually pitch a deal to.
+- A good title without a direct email often means the lead is promising but incomplete, not strong.
 
 ## Required references
 Read these files when doing real lead work:

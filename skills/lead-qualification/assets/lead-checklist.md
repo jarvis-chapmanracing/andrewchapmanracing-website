@@ -43,8 +43,12 @@ Use this as a quick evaluation template.
 - Title:
 - Is the title clearly decision-making and relevant: yes / no
 - Best contact path:
+- Contact path type: email / LinkedIn / Instagram / phone
 - Is the best path direct to the named person: yes / no
+- Contact verification level: V0 / V1 / V2 / V3 / V4
+- Verification evidence:
 - Backup contact path:
+- Backup verification level:
 
 ## Priority check
 - Close to upcoming race:

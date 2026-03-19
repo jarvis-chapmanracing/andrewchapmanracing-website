@@ -43,7 +43,10 @@ A lead is outreach-ready only when:
 - the company fit is confirmed
 - the right person is identified
 - a usable contact path is identified
+- the best path is verified at V3 or better
 - the deal looks practical enough to propose
+
+A lead can be a good company but still incomplete if contact verification is weak.
 
 ## Prioritization logic
 Act sooner when the lead has:
@@ -58,3 +61,4 @@ Do not mistake "a company exists" for "a company is a lead."
 A lead only becomes high quality when the company is worth pursuing and the right contact path is established.
 
 Prefer real, reachable companies over flashy names that are unlikely to produce a real deal.
+l.
