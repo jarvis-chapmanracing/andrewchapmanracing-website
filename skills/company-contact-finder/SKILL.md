@@ -99,7 +99,7 @@ Weak-only sources that should not stand alone:
 - AI-generated summaries from third parties
 
 ### 5. Find the best contact path
-Search in this order:
+For each relevant verified person, search in this order:
 1. direct named email on official site or official PR
 2. named LinkedIn profile that clearly matches the role and company
 3. direct phone, extension, or founder-owner main line for a small business
@@ -108,6 +108,8 @@ Search in this order:
 6. inferred email pattern only when the domain pattern is supported, and label it as inferred or probable
 
 Use `data-enricher` only after you already have a strong person-company match.
+
+Do not require every relevant person to have a direct contact path. It is acceptable to return multiple verified people where some have only role verification plus LinkedIn or a company-level fallback.
 
 ### 6. Assign confidence honestly
 Use `references/contact-confidence.md`.
@@ -177,3 +179,4 @@ Do not duplicate those skills inside this one. Use them.
 - Keep source links so the user can verify quickly.
 - When evidence conflicts, surface the conflict instead of choosing the prettier answer.
 - If uncertain, say uncertain.
+n.

@@ -5,7 +5,25 @@ Use this shape when returning results.
 ## Company -> people
 - Company: 
 - Domain: 
-- Best candidates:
+- Primary decision-makers:
+  1. Name - Title
+     - What they do: 
+     - Why they matter: 
+     - Verification source: 
+     - Best contact path: 
+     - Contact type: 
+     - Confidence: 
+     - Sources: 
+- Likely outreach owners:
+  1. Name - Title
+     - What they do: 
+     - Why they matter: 
+     - Verification source: 
+     - Best contact path: 
+     - Contact type: 
+     - Confidence: 
+     - Sources: 
+- Secondary useful contacts:
   1. Name - Title
      - What they do: 
      - Why they matter: 

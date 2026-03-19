@@ -39,8 +39,13 @@ Use these patterns to find people and contact paths quickly.
 - `"Company Name" phone marketing`
 
 ## Good stopping rule
-Stop when you have:
+For company -> people, stop when you have:
+- the main decision-maker group covered
+- the likely outreach-owner group covered
+- and no clear signal that more high-value names are being missed
+
+For company + person, stop when you have:
 - one strong named person and one strong path
 - or one strong fallback plus clear evidence no better path is public
 
-Do not keep searching just to produce more names.
+Do not keep searching just to produce more names, but do not stop after a single person when the task is to map relevant people at the company.
