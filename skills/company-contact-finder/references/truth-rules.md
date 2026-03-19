@@ -30,5 +30,12 @@ Reject the match when:
 ## 6. Explain uncertainty clearly
 If the skill cannot verify a direct path, say exactly what was found and what was not found.
 
-## 7. Preserve source links
+## 7. Handle extraction failures carefully
+If an official page renders poorly in fetch or hides key text in cards, scripts, or cookie-heavy layouts:
+- use official-domain search results to locate the exact page
+- treat search snippets from the official domain as supporting evidence, not sole proof for a named direct contact
+- try a second official page before downgrading to third-party sources
+- if the official snippet shows a contact path but the fetched page does not, lower confidence unless a second strong source supports it
+
+## 8. Preserve source links
 Always keep source links with the result so the user can verify quickly.
