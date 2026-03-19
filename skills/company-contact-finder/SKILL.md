@@ -11,7 +11,11 @@ Core jobs:
 1. Company to people
 2. Company plus person to contact path
 
-Use web search and web fetch first. Use LinkedIn only as a supporting source when available. Do not treat a contact form or a generic inbox as a strong result.
+Use web search and web fetch first. Use existing workspace skills as supporting layers instead of reinventing them:
+- use `linkedin` to verify company pages, organization details, or person/company relationships when LinkedIn access is available
+- use `data-enricher` when you need email discovery patterns or domain-level email enrichment
+- use `lead-qualification` after contact discovery when the goal is sponsor or sales readiness
+Do not treat a contact form or a generic inbox as a strong result.
 
 ## Workflow
 
@@ -77,6 +81,10 @@ Search in this order:
 4. official company contact page with department context
 5. generic inbox only as a fallback
 
+Use existing skills deliberately during this step:
+- if public web results surface a likely email pattern or domain-only contact clues, use `data-enricher` to improve the email path
+- if a LinkedIn company or person page is central to verification, use `linkedin` to strengthen the match when access is available
+
 Read `references/contact-confidence.md` to assign a confidence level.
 
 ### 5. Verify the match
@@ -124,6 +132,14 @@ If the public web does not surface a strong person or path:
 - say that the result is incomplete
 - return the best fallback route
 - suggest the next-best targeted search
+
+## Skill handoff rules
+Use this skill as the discovery layer, then hand off to the right existing skill:
+- `lead-qualification` for sponsor or sales readiness, stage assignment, and outreach-path judgment
+- `data-enricher` for stronger email discovery when the public web only gives partial clues
+- `linkedin` for LinkedIn-backed company or person verification when that access is available
+
+Do not duplicate those skills inside this one. Use them.
 
 ## Sponsor or sales follow-on
 If the user is doing sponsor or sales work, pass the result into `lead-qualification` after this skill finds the person and path. Do not collapse discovery and qualification into one step.
