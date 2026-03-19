@@ -124,6 +124,12 @@ Use only when:
 ## Mistakes to avoid
 - adding junk to hit volume
 - trusting generic inboxes
+- accepting named contacts without direct paths to those contacts
+- treating portal-only access as strong
+- treating missing contact names as acceptable
 - chasing companies that are too small and unrealistic
+- prioritizing flashy brands that are not actually reachable
+- forgetting that the goal is a real company Andrew can genuinely pitch a deal to
+are too small and unrealistic
 - prioritizing flashy brands that are not actually reachable
 - forgetting that the goal is a real company Andrew can genuinely pitch a deal to

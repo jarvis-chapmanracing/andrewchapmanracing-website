@@ -37,6 +37,15 @@ Use this as a quick evaluation template.
 - No practical deal structure: yes / no
 - Sketchy or low quality: yes / no
 
+## Contact check
+- Preferred role based on company size:
+- Primary target person:
+- Title:
+- Is the title clearly decision-making and relevant: yes / no
+- Best contact path:
+- Is the best path direct to the named person: yes / no
+- Backup contact path:
+
 ## Priority check
 - Close to upcoming race:
 - Strong contact path:

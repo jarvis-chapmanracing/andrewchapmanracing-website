@@ -72,14 +72,19 @@ Avoid treating these as useful contacts:
 Use the highest-confidence direct path to the right person.
 
 Path order:
-1. Direct company email if confidence is high
+1. Direct company email to the named contact if confidence is high
 2. LinkedIn if email confidence is weak
 3. Instagram if LinkedIn confidence is weak
 4. Phone if none of the others are confident paths
 
-Treat these as not meaningful for pitch-ready status:
-- contact forms
-- generic company emails
+Interpret path quality strictly:
+- a direct email to the named contact is the gold standard
+- LinkedIn or phone can keep a lead alive for more research
+- LinkedIn or phone alone usually do not make a lead strong
+- Instagram is weaker than LinkedIn and should not upgrade a weak lead into a strong one
+- contact forms are not meaningful
+- generic company emails are not meaningful
+- portal-only access is usually weak and often awful
 
 ### 5. Apply stage definitions
 Use these gates exactly.

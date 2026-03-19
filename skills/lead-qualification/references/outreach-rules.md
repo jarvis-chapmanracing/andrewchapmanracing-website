@@ -17,16 +17,20 @@ Sequence:
 Use the highest-confidence path to the right person.
 
 Priority order:
-1. email, when there is a direct email you are confident in
+1. email, when there is a direct email to the named contact and you are confident in it
 2. LinkedIn, when you are not confident in the email
 3. Instagram, when you are not confident in LinkedIn
 4. phone, when none of the others are confident paths
 
 Email is the preferred first option when it is solid.
 
-Do not treat these as sufficient for a strong lead by themselves:
-- contact form
-- generic company email
+Interpret channels strictly:
+- direct email to the named contact is the strongest path
+- LinkedIn and phone are useful for continuing research or limited outreach, but often mean the lead is still incomplete
+- Instagram is weaker than LinkedIn
+- contact form is not a meaningful path
+- generic company email is not a meaningful path
+- portal-only access is usually weak and often awful
 
 ## Contact selection logic
 - smaller company -> founder or owner first

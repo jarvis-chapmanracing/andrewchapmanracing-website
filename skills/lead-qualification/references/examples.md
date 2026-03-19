@@ -13,12 +13,13 @@ Why it works:
 - reachable in a practical way
 
 ## Decent but not ready
-A company that clearly fits and is worth pursuing, but the contact work is incomplete. The business may be strong and timely, yet there is no confirmed best person or no high-confidence path to that person.
+A company that clearly fits and is worth pursuing, and the likely right person is identified, but there is no direct email yet. There may only be LinkedIn and phone, which is enough to continue research but not enough to call it strong.
 
 Why it stays Vetted:
 - company fit is confirmed
 - worth pursuing
-- person and route still incomplete
+- person is likely right
+- direct path is still incomplete
 
 ## Bad lead
 A company that is too small, inactive, low quality, or shows no visible marketing spend. Even if the business is somewhat relevant, it does not look capable of doing a real sponsorship deal.
