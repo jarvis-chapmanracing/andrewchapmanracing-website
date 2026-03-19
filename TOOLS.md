@@ -20,9 +20,10 @@ Andrew's preferences for model selection:
 | Task | Model |
 |------|-------|
 | Reasoning, planning, heavy cognitive work | `anthropic/claude-opus-4-6` (alias: opus) |
-| Writing, human interaction, sales, coding | `openai-codex/gpt-5.4` |
+| Writing, human interaction, chats, sales | `openai-codex/gpt-5.4` |
+| Coding | `openai-codex/gpt-5.3-codex` |
 
-- **Default:** Stay on Opus unless the task clearly falls into writing/interaction/coding territory
+- **Default:** Stay on Opus unless the task clearly falls into writing/interaction/chat/coding territory
 - Switch models proactively based on the task - don't wait to be asked
 - **Always tell Andrew which model is being used** (e.g. "⚡ Using: Opus 4-6" or "⚡ Using: GPT-5.4")
 
