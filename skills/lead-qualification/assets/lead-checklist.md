@@ -11,6 +11,10 @@ Use this as a quick evaluation template.
 - Primary contact name:
 - Primary contact title:
 - Primary contact path:
+- Contact path type:
+- Contact verification level:
+- Verification evidence:
+- Enrichment evidence used:
 - Best outreach method:
 - Notes:
 - Source links:
@@ -22,6 +26,8 @@ Use this as a quick evaluation template.
 - Why now:
 - Backup contact:
 - Backup contact path:
+- Backup verification level:
+- Backup verification evidence:
 
 ## Company screen
 - Is it a startup or mid-size brand:
@@ -47,8 +53,10 @@ Use this as a quick evaluation template.
 - Is the best path direct to the named person: yes / no
 - Contact verification level: V0 / V1 / V2 / V3 / V4
 - Verification evidence:
+- Enrichment evidence used:
 - Backup contact path:
 - Backup verification level:
+- Backup verification evidence:
 
 ## Priority check
 - Close to upcoming race:

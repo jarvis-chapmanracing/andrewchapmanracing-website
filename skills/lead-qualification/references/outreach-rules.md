@@ -48,6 +48,8 @@ A lead is outreach-ready only when:
 
 A lead can be a good company but still incomplete if contact verification is weak.
 
+Use public sources first, then Apollo or other enrichment tools to improve confidence before declaring a lead outreach-ready.
+
 ## Prioritization logic
 Act sooner when the lead has:
 - proximity to an upcoming race

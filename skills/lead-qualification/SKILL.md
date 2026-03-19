@@ -124,20 +124,20 @@ Verification levels:
 Examples by channel:
 - Email
   - V0: generic inbox or guessed pattern only
-  - V2: direct email in one credible public source
-  - V3-V4: direct email on official company site, official PR, or multiple reliable sources
+  - V2: direct email in one credible public source or one strong enrichment source
+  - V3-V4: direct email on official company site, official PR, or confirmed across multiple reliable sources including Apollo or another enrichment tool
 - LinkedIn
   - V0: stale or uncertain profile
   - V2: current role appears valid
-  - V3-V4: current active profile with clear role relevance and recency
+  - V3-V4: current active profile with clear role relevance and recency, ideally cross-checked by enrichment data
 - Phone
   - V0: generic switchboard only
   - V2: department line or likely business number
-  - V3-V4: direct line, extension, or founder-owner main line for a small business
+  - V3-V4: direct line, extension, or founder-owner main line for a small business, ideally supported by public or enrichment evidence
 - Instagram
   - V0: unclear or inactive account
   - V2: official active brand/person account
-  - V3-V4: official active account clearly used for business contact or decision-maker access
+  - V3-V4: official active account clearly used for business contact or decision-maker access, ideally supported by matching public identity data
 
 Stage rules with verification:
 - Candidate: no minimum verification required
