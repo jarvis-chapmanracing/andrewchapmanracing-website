@@ -23,7 +23,7 @@ Andrew's preferences for model selection:
 | Writing, human interaction, chats, sales | `openai-codex/gpt-5.4` |
 | Coding | `openai-codex/gpt-5.3-codex` |
 
-- **Default:** Stay on Opus unless the task clearly falls into writing/interaction/chat/coding territory
+- **Default:** Use Opus for thinking and reasoning. If Opus is unavailable, fall back to GPT-5.4 for those tasks. Otherwise route writing/interaction/chat to GPT-5.4 and coding to GPT-5.3 Codex
 - Switch models proactively based on the task - don't wait to be asked
 - **Always tell Andrew which model is being used** (e.g. "⚡ Using: Opus 4-6" or "⚡ Using: GPT-5.4")
 
