@@ -15,17 +15,25 @@ Things like:
 
 ## Model Routing
 
-Andrew's preferences for model selection:
+Andrew's explicit preferences (updated 2026-03-20 01:51 UTC):
 
 | Task | Model |
 |------|-------|
-| Reasoning, planning, heavy cognitive work | `anthropic/claude-opus-4-6` (alias: opus) |
-| Writing, human interaction, chats, sales | `openai-codex/gpt-5.4` |
-| Coding | `openai-codex/gpt-5.3-codex` |
+| Bulk of tasks, simple tasks, default | `openai-codex/gpt-5.1-codex-mini` |
+| Coding tasks | `openai-codex/gpt-5.3-codex` |
+| Human writing, sales, outreach | `openai-codex/gpt-5.4` |
+| Critical reasoning/thinking only | `anthropic/claude-opus-4-6` (alias: opus) |
 
-- **Default:** Use Opus for thinking and reasoning. If Opus is unavailable, fall back to GPT-5.4 for those tasks. Otherwise route writing/interaction/chat to GPT-5.4 and coding to GPT-5.3 Codex
-- Switch models proactively based on the task - don't wait to be asked
-- **Always tell Andrew which model is being used** (e.g. "⚡ Using: Opus 4-6" or "⚡ Using: GPT-5.4")
+**Key rules:**
+- GPT 5.1 Mini is the new default for bulk/simple tasks
+- Only use Opus 4.6 for critical reasoning and thinking
+- Switch models proactively based on the task
+- **⚠️ CRITICAL: Announce the active model in EVERY REPLY.** Start with "⚡ Using: [Model Name]" before your actual response. This is non-negotiable.
+- **Model emoji conventions:** When using different models for different parts of a task, use emojis to denote them:
+  - ⚡ = Main/active model announcement
+  - 🧠 = Critical thinking/reasoning (Opus 4-6)
+  - 💻 = Coding (GPT-5.3 Codex)
+  - (No special emoji for GPT-5.4 or GPT-5.1 Mini, just use ⚡)
 
 ## Writing Preferences
 
