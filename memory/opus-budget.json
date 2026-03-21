@@ -1,0 +1,11 @@
+{
+  "dailyCapUsd": 3,
+  "stopThresholdUsd": 2.75,
+  "days": {
+    "2026-03-21": {
+      "spentUsd": 0,
+      "status": "available",
+      "notes": "Reset baseline after routing policy change. Use local session costs to update this ledger before and after any Opus use."
+    }
+  }
+}
