@@ -15,7 +15,7 @@ Things like:
 
 ## Model Routing
 
-Andrew's explicit preferences (updated 2026-03-20 01:51 UTC):
+Andrew's explicit preferences (updated 2026-03-21 01:46 UTC):
 
 | Task | Model |
 |------|-------|
@@ -23,6 +23,20 @@ Andrew's explicit preferences (updated 2026-03-20 01:51 UTC):
 | Coding tasks | `openai-codex/gpt-5.3-codex` |
 | Human writing, sales, outreach | `openai-codex/gpt-5.4` |
 | Critical reasoning/thinking only | `anthropic/claude-opus-4-6` (alias: opus) |
+
+**Sub-agent routing policy:**
+- Main agent = router / operator = `openai-codex/gpt-5.1-codex-mini`
+- Writing agent = all human-facing writing = `openai-codex/gpt-5.4`
+- Coding agent = scripts, automations, debugging, implementation = `openai-codex/gpt-5.3-codex`
+- Strategist agent = difficult reasoning, edge cases, strategic tradeoffs = `anthropic/claude-opus-4-6`
+
+**Hard routing rules:**
+- If the output is meant for a human outside the system, route to the writing agent on GPT-5.4.
+- If the task creates or edits code, scripts, or automation logic, route to the coding agent on GPT-5.3 Codex.
+- If the task is ambiguous, high-stakes, or strategy-heavy, route to the strategist agent on Opus.
+- Operational work, tool use, research organization, sheet updates, and routine coordination stay on GPT-5.1 Mini.
+- If a task spans multiple categories, split it across agents instead of forcing one model to do everything.
+- Sponsor emails and outreach drafts are never "simple bulk work". They always go to GPT-5.4.
 
 **Key rules:**
 - GPT 5.1 Mini is the new default for bulk/simple tasks
