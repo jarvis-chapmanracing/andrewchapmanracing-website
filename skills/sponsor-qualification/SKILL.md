@@ -1,9 +1,9 @@
 ---
-name: lead-qualification
-description: Qualify sponsorship or sales-style leads using a staged workflow that starts with company screening and only then identifies the right contact. Use when evaluating whether a company is worth pursuing, moving leads through the stages Candidate, Vetted, and Pitch-ready, choosing the right contact based on company size, selecting the highest-confidence outreach path, or applying Andrew Chapman Racing lead standards before sheet entry or outreach.
+name: sponsor-qualification
+description: Qualify sponsorship leads using a staged workflow that starts with company screening and then identifies the right contact. Use this racing-focused skill when deciding whether a company should move through the stages Candidate, Vetted, and Pitch-ready, and when you need to pick the best contact path before logging it in the tracker or sending outreach.
 ---
 
-# Lead Qualification
+# Sponsor Qualification
 
 Use this skill to evaluate sponsorship leads for Andrew Chapman Racing.
 
